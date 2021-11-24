@@ -18,8 +18,9 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/ju.pdf", title: "cv", icon: igloo}
-  - {title: "work", url: "https://www.unifr.ch/psycho/en/research/vcnl/"}
-  - {title: "things", file: "/blog.md"}
+  - {title: "know", file: "know.md"}
+  - {title: "misc", file: "misc.md"}
+  - {title: "work", file: "work.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:junchao.hu@unifr.ch"}
