@@ -1,0 +1,6 @@
+---
+layout: page
+title: "things"
+---
+
+I'm a PhD candidate in the Visual and Cognitive Neuroscience Lab at the University of Fribourg
